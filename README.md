@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome To My Profile
 
-<!--
-**nyekuuu/nyekuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💾 Stats 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyekuuu)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## 📘 Recently used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyekuuu)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Social media
+* Twitter: https://www.twitter.com/nyekuuu/
+* links: https://linktr.ee/nyekuuu
+
+## 📝 Notices
+**March 13 2023**
+> Previously I worked on a multipurpose Discord Bot. I've chosen to abandon it and private the project. If you are looking for the bot there are many great alternatives.
