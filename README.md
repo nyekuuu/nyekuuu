@@ -9,6 +9,7 @@
 ## ✨ Social media
 * Twitter: https://www.twitter.com/nyekuuu/
 * links: https://linktr.ee/nyekuuu
+* Miku!?: https://linktr.ee/HatsuneMiku
 
 ## 📝 Notices
 **March 13 2023**
