@@ -7,7 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyekuuu)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Social media
-* Twitter: https://www.twitter.com/nyekuuu/
 * links: https://linktr.ee/nyekuuu
 * Miku!? https://linktr.ee/HatsuneMiku
 
