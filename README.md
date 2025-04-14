@@ -1,8 +1,5 @@
 # Welcome To My Profile
 
-## 💾 Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyekuuu)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📘 Recently used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyekuuu)](https://github.com/anuraghazra/github-readme-stats)
 
