@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyekuuu)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Social media
-* Website: https://linktr.ee/nyekuuu
+* Website: https://nyeku.xyz
 * Socials: https://linktr.ee/nyekuuu
 * Hatsune Miku!? https://linktr.ee/HatsuneMiku
 
