@@ -5,7 +5,6 @@
 
 ## Social media
 * Website: https://nyeku.xyz
-* Socials: https://linktr.ee/nyekuuu
 * Hatsune Miku!? https://linktr.ee/HatsuneMiku
 
 ## 📝 Notices
