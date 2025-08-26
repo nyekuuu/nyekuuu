@@ -10,4 +10,4 @@
 
 ## 📝 Notices
 **March 13 2023**
-> Previously, I worked on a multipurpose Discord Bot. I've chosen to abandon it and privatise the project. If you are looking for the bot, there are many great alternatives.
+> Previously, I worked on a multipurpose Discord Bot. I've chosen to abandon it and private the project. If you are looking for the bot, there are many great alternatives.
