@@ -1,4 +1,4 @@
-# Welcome To My Profile
+# Nyeku
 
 ## Social media
 * Website: https://nyeku.xyz
